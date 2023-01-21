@@ -10,6 +10,7 @@ const AddEdit = () => {
         getById()
     },[params]) */
 
+    
   //STATE VARIABLE
   const [postData, setPostData] = useState({
     id: "",
